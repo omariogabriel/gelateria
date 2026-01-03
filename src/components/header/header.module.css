@@ -1,0 +1,28 @@
+.header {
+    background-color: #F9DB79;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-width: 1024px;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.header_logo {
+    width: 100px;
+    height: 100px;
+}
+
+.header nav {
+    display: flex;
+    gap: 40px;
+    padding: 20px 0;
+}
+
+.header_link {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+
+}
